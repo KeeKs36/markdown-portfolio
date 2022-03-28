@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Duck](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.thesprucepets.com%2Fthmb%2FvfwTSKMGnzgFXf09SOa4QtLsSo8%3D%2F1414x1414%2Fsmart%2Ffilters%3Ano_upscale()%2FGettyImages-481523341-acc726247c9e4f5abef6f4bd13559691.jpg&imgrefurl=https%3A%2F%2Fwww.thesprucepets.com%2Fnames-for-ducks-5114528&tbnid=6KX6ve6VDZ3wEM&vet=12ahUKEwif8qmVkuj2AhV__TgGHQOKB6QQMygTegUIARCGAg..i&docid=ABYr1689F1OSrM&w=1414&h=1414&q=duck%20image&ved=2ahUKEwif8qmVkuj2AhV__TgGHQOKB6QQMygTegUIARCGAg)
